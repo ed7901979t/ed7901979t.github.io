@@ -1,0 +1,20 @@
+# Site settings
+author: clean-command-1851
+title: 
+header-img: img/home-bg.png
+email: ed7901979t@gmail.com
+copyright_name: clean-command-1851
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  ed7901979t
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
