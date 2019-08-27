@@ -1,11 +1,11 @@
 # Site settings
-author: clean-command-1851
-title: 
+author: Edward Tomachevskiy
+title: User requirements and Pseudo coding 
 header-img: img/home-bg.png
 email: ed7901979t@gmail.com
-copyright_name: clean-command-1851
+copyright_name: Edward Tomachevskiy
 description: > # this means to ignore newlines until "baseurl:"
-  
+  User stories
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ed7901979t
